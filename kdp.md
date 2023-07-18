@@ -18,7 +18,6 @@ It is important to note that this book is not a magic formula for instant succes
 
 Are you ready to embark on this exciting journey of self-discovery and cognitive growth? Let's dive into the world of metacognition and unlock your true potential.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
