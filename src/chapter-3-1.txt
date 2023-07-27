@@ -1,0 +1,1 @@
+for the book "the art of metacognition how to think about your own thinking and improve your learning", write a chapter: "techniques for developing awareness of one's own thinking processes".  Use Markdown format. Use English.

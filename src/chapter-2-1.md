@@ -48,4 +48,4 @@ Metacognition, or thinking about one's own thinking, plays a crucial role in mem
 Conclusion
 ----------
 
-The brain's intricate workings and memory systems provide a foundation for our cognitive abilities. Understanding these processes empowers us to improve our metacognitive skills, enhance our learning capabilities, and unlock the full potential of our minds. In the next chapter, we will explore practical techniques for harnessing the power of metacognition in our daily lives.
+The brain's intricate workings and memory systems provide a foundation for our cognitive abilities. Understanding these processes empowers us to improve our metacognitive skills, enhance our learning capabilities, and unlock the full potential of our minds.
