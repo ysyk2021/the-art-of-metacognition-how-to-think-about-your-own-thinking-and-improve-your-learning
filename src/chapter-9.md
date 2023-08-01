@@ -3,7 +3,7 @@ Chapter 9: Overcoming Obstacles to Metacognition
 
 In this chapter, we will explore the common obstacles that can hinder metacognition and provide strategies for overcoming them. By identifying these challenges and adopting a growth mindset towards learning, you can enhance your metacognitive abilities and improve your overall learning experience.
 
-Sub-chapter 9.1: Identifying and Overcoming Common Obstacles to Metacognition
+Identifying and Overcoming Common Obstacles to Metacognition
 -----------------------------------------------------------------------------
 
 Metacognition, which involves thinking about your own thinking, can sometimes be impeded by various obstacles. Recognizing and understanding these barriers is crucial in order to effectively overcome them. Here, we will discuss some common obstacles to metacognition and strategies for addressing them:
@@ -18,7 +18,7 @@ Metacognition, which involves thinking about your own thinking, can sometimes be
 
 5. **Fear of failure**: The fear of making mistakes or not meeting expectations often prevents individuals from engaging in metacognitive thinking. Embrace failure as an opportunity for growth and learning. Develop a positive attitude towards setbacks and view them as valuable learning experiences.
 
-Sub-chapter 9.2: Strategies for Developing a Growth Mindset Towards Learning
+Strategies for Developing a Growth Mindset Towards Learning
 ----------------------------------------------------------------------------
 
 Cultivating a growth mindset is essential for enhancing metacognition and improving learning outcomes. Here are some strategies to develop a growth mindset:
