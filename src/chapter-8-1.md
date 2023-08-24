@@ -1,4 +1,3 @@
-# The Relationship between Metacognition and Critical Thinking
 
 In this chapter, we will explore the intimate relationship between metacognition and critical thinking. Metacognition refers to the process of thinking about your own thinking, while critical thinking involves analyzing and evaluating information in a logical and systematic manner. By understanding how these two cognitive processes interact, individuals can enhance their learning and problem-solving abilities.
 

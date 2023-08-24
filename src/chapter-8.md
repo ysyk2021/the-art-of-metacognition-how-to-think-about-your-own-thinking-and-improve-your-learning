@@ -1,5 +1,3 @@
-Chapter 8: Metacognition and Critical Thinking
-==============================================
 
 In this chapter, we will explore the relationship between metacognition and critical thinking, as well as strategies for improving critical thinking skills through metacognition.
 

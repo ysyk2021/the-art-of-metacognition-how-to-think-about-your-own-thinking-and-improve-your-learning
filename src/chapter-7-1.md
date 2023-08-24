@@ -1,5 +1,3 @@
-Importance of Metacognitive Skills in Collaborative Settings
-========================================================================
 
 In this chapter, we will explore the significance of metacognitive skills in collaborative settings. Collaborative learning environments offer unique opportunities for individuals to work together, exchange ideas, and collectively solve problems. By developing and applying metacognitive skills within these contexts, individuals can enhance their own learning experience and contribute to the success of the group. This chapter highlights the importance of metacognition in collaborative settings and provides practical strategies for leveraging these skills effectively.
 

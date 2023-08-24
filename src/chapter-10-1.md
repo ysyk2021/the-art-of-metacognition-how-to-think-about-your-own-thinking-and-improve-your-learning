@@ -1,5 +1,3 @@
-Recap of the Benefits of Metacognition
-==============================================================
 
 Metacognition is a powerful tool that can help you improve your learning and thinking processes. In this book, we have covered various techniques and strategies for developing metacognitive skills. In this final chapter, we will recap the benefits of metacognition.
 

@@ -1,5 +1,3 @@
-Strategies for Identifying Cognitive Biases and Assumptions
-======================================================================
 
 In this chapter, we will explore strategies for identifying cognitive biases and assumptions, which can hinder our thinking and decision-making processes. Cognitive biases are systematic errors in our thinking that often lead to irrational judgments, while assumptions are beliefs or ideas we hold without sufficient evidence. By becoming aware of and addressing these biases and assumptions, we can improve the quality of our thinking and enhance our metacognitive abilities.
 

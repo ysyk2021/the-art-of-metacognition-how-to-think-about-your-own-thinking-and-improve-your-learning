@@ -1,5 +1,3 @@
-Chapter 3: Developing Awareness of Thinking Processes
-=====================================================
 
 Developing awareness of our own thinking processes is a critical component of metacognition. In this chapter, we will cover techniques for developing awareness of one's own thinking processes and strategies for identifying cognitive biases and assumptions.
 
@@ -83,5 +81,4 @@ Conclusion
 ----------
 
 In conclusion, developing awareness of our own thinking processes is an essential component of metacognition. Techniques for developing awareness include mindfulness, journaling, and seeking feedback from others. Strategies for identifying biases and assumptions include self-reflection, seeking multiple perspectives, examining sources of information, and using critical thinking skills. By incorporating these techniques and strategies into problem-solving and learning processes, learners can become more effective problem-solvers and learners.
-
 

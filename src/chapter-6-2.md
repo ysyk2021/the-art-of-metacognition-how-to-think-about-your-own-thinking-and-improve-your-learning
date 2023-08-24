@@ -1,5 +1,3 @@
-Tools and Methods for Assessing Progress Towards Goals
-=================================================================
 
 In this chapter, we will delve into various tools and methods that can be utilized to assess progress towards goals. By regularly evaluating and analyzing our progress, we can identify areas of improvement, track our learning journey, and make necessary adjustments to achieve our desired outcomes. This chapter provides practical insights and techniques to effectively assess progress and enhance the art of metacognition in goal attainment.
 

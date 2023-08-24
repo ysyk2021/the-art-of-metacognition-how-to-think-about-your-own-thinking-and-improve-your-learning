@@ -1,5 +1,3 @@
-Chapter 5: Setting Goals and Planning Strategies
-================================================
 
 Setting goals and planning strategies are essential components of metacognition. In this chapter, we will cover strategies for setting effective goals and planning strategies for learning and problem-solving, as well as tips for breaking down larger goals into achievable tasks.
 

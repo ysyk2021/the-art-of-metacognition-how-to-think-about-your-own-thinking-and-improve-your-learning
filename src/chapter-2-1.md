@@ -1,5 +1,3 @@
-Overview of How the Brain Works and Stores Memories
-==================================================================================================
 
 In this chapter, we will delve into the fascinating world of the brain and explore how it functions in relation to memory storage. Understanding the complex mechanisms at play within our brains can provide valuable insights into improving our learning abilities and metacognitive skills.
 

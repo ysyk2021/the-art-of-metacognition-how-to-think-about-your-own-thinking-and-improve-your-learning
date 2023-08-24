@@ -1,5 +1,3 @@
-Strategies for Promoting Metacognition in Group Work and Team Projects
-=================================================================================
 
 In this chapter, we will explore effective strategies for promoting metacognition in group work and team projects. Collaborative settings provide valuable opportunities for individuals to engage in metacognitive thinking, reflect on their own learning process, and improve their overall performance. By implementing the following strategies, you can enhance metacognitive skills within your group and optimize the outcomes of your team projects.
 

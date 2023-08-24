@@ -1,5 +1,3 @@
-Chapter 7: Using Metacognition in Collaborative Settings
-========================================================
 
 In this chapter, we will explore the importance of metacognitive skills in collaborative settings and strategies for promoting metacognition in group work and team projects.
 
@@ -24,5 +22,4 @@ Strategies for Promoting Metacognition in Group Work and Team Projects
 5. **Encourage collaboration:** Foster a collaborative environment, where team members feel comfortable sharing their ideas and working together to find solutions. This can be done through group brainstorming sessions, collaborative problem-solving activities, or other team-building exercises.
 
 By promoting metacognition in group work and team projects, learners can enhance their ability to think about their own thinking and learning processes, while also improving their communication, critical thinking, and problem-solving skills. This can lead to more effective collaboration and better outcomes for the project as a whole.
-
 

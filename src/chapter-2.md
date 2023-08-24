@@ -1,5 +1,3 @@
-Chapter 2: Understanding the Brain and Memory
-=============================================
 
 Understanding how the brain works and stores memories is an essential component of metacognition. In this chapter, we will cover an overview of how the brain works and strategies for optimizing memory retention and recall.
 

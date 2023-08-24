@@ -1,5 +1,3 @@
-Chapter 9: Overcoming Obstacles to Metacognition
-================================================
 
 In this chapter, we will explore the common obstacles that can hinder metacognition and provide strategies for overcoming them. By identifying these challenges and adopting a growth mindset towards learning, you can enhance your metacognitive abilities and improve your overall learning experience.
 

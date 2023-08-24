@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Metacognition is the ability to think about one's own thinking. It involves being aware of our own thought processes, monitoring our own understanding and learning, and making adjustments as needed. This chapter will provide an overview of how metacognition can enhance learning and problem-solving, as well as a more in-depth definition of metacognition.
 

@@ -1,5 +1,3 @@
-Chapter 6: Self-Assessment and Feedback
-=======================================
 
 Self-assessment and feedback are essential components of metacognition. In this chapter, we will cover the importance of self-assessment and feedback in the learning process and tools and methods for assessing progress towards goals.
 

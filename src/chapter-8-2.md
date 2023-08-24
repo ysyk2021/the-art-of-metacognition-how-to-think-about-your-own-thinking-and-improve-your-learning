@@ -1,5 +1,3 @@
-Strategies for Improving Critical Thinking Skills through Metacognition
-==================================================================================
 
 In this chapter, we will explore strategies that can help individuals improve their critical thinking skills through metacognition. Critical thinking is a vital cognitive skill that involves analyzing, evaluating, and synthesizing information to make reasoned judgments. By incorporating metacognitive practices into the process, readers of "The Art of Metacognition: How to Think About Your Own Thinking and Improve Your Learning" can enhance their ability to think critically and make informed decisions.
 

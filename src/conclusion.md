@@ -1,4 +1,4 @@
-# Conclusion
+
 
 Metacognition is a powerful tool for personal growth and learning success. In this book, we have covered various strategies and techniques for developing metacognitive skills. In this final chapter, we will recap the benefits of metacognition and encourage readers to embrace metacognitive practices.
 
